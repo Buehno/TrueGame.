@@ -1,0 +1,86 @@
+.conteiner{
+
+}
+
+.usuario{
+	position: absolute;
+	bottom: 373px;
+	left: 554px;
+	text-align: center;
+	padding: 10px;
+
+}
+
+.Uusuario{
+	width: 405px;
+	height: 30px;
+}
+
+.email{
+	position: absolute;
+	bottom: 300px;
+	left: 554px;
+	text-align: center;
+	padding: 10px;
+
+}
+
+.Eemail{
+	width: 405px;
+	height: 30px;
+}
+
+.senha{
+	position: absolute;
+	bottom: 221px;
+	left: 557px;
+	text-align: center;
+	padding: 10px;
+
+}
+
+.Ssenha{
+	width: 405px;
+	height: 30px;
+}
+
+.senha2{
+	position: absolute;
+	bottom: 148px;
+	left: 557px;
+	text-align: center;
+	padding: 10px;
+
+}
+
+.Ssenha2{
+	width: 405px;
+	height: 30px;
+}
+
+.discord{
+	position: absolute;
+	bottom: 80px;
+	left: 559px;
+	text-align: center;
+	padding: 10px;
+
+}
+
+.Ddiscord{
+	width: 164px;
+	height: 30px;
+}
+
+.jogar{
+	position: absolute;
+	bottom: 75px;
+	left: 840px;
+	text-align: center;
+	padding: 10px;
+}
+
+.lolzin{
+	width: 150px;
+	height: 50px;
+}
